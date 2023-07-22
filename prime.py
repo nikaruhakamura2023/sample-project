@@ -1,4 +1,4 @@
-#Python funcction to check if a number is prime or not
+#Python function to check if a number is prime or not
 
 def prime(x):
     for i in range(x):
